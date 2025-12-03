@@ -9,13 +9,23 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.2.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.11"
-  }
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dianedematos/flor-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dianedematos/flor-api/issues"
+  },
+  "homepage": "https://github.com/dianedematos/flor-api#readme",
+  "description": ""
 }
-
